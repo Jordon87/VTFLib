@@ -72,7 +72,7 @@ vtfcmd.exe -folder "C:\output\*.vtf" -output "C:\input" -exportformat "jpg"
 ## VTFEdit Reloaded Changelog
 
   v2.0.1 (JORDON STYLE :3)
-   - Upgraded HLLib to 2.4.6.
+   - Updated to HLLib v2.4.6.
   
   v2.0.0
   - Migrated to using AMD Compressonator for DXT compression.
